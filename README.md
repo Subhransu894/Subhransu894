@@ -81,15 +81,6 @@ A full-stack CRM application to manage **leads, sales agents, and comments**. Fo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhransu894&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhransu894&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
 ## 🌐 Languages
 
 `Odia` · `Hindi` · `English`
